@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemSalvar"
+        android:orderInCategory="100"
+        android:title="@string/Salvar"
+        android:icon="@drawable/ic_adicionar_branco_24dp"
+        app:showAsAction="always" />
+</menu>
